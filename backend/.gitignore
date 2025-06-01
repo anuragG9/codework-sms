@@ -1,0 +1,10 @@
+# Global
+.env
+node_modules/
+__pycache__/
+.DS_Store
+
+
+# Python
+/backend/__pycache__/
+/backend/.venv/
