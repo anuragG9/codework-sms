@@ -1,3 +1,4 @@
 # Web
+.env
 /web-frontend/build/
 /web-frontend/.next/
